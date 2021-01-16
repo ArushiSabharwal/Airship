@@ -1,4 +1,4 @@
-// 86acbd31cd7c09cf30acb66d2fbedc91daa48b86:1610761418.069421
+// 86acbd31cd7c09cf30acb66d2fbedc91daa48b86:1610766018.3091767
 importScripts('https://aswpsdkus.com/notify/v1/ua-sdk.min.js')
 uaSetup.worker(self, {
   defaultIcon: 'http://www.facebook.com',
